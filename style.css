@@ -1,0 +1,43 @@
+body {
+    padding: 3em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #777;
+    background: #eedfcc;
+}
+
+button {
+    padding: 1em;
+    border: 1px solid #777;
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: transparent;
+    color: #777;
+}
+
+button:hover {
+    color: #e04f62;
+}
+
+h1 {
+    color: #e04f62;
+    font-weight: bold;
+}
+
+p {
+    background: #fff;
+    box-shadow: 0 0.1875rem 1.5rem rgba(0, 0, 0, 0.2);
+    border-radius: 0.375rem;
+    overflow: hidden;
+    width: 700px;
+    padding: 1em;
+}
+
+.data {
+    color: #e04f62;
+    display: inline-block;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
