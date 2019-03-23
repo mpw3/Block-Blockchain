@@ -2,6 +2,8 @@
 
 My goal with this project was to get a better knowledge about how a blockchain works. It's built using Node.js
 <br /><br />
+<img width="775" alt="image" src="https://user-images.githubusercontent.com/48786837/54867361-9d7e5b80-4d7f-11e9-841b-e4169607fe0e.png">
+<br /><br />
 #### Requirements (npm packages):
 - sha256 = hash the blocks <br />
 - express = setup local server <br />
